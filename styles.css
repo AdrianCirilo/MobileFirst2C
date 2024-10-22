@@ -8,8 +8,8 @@
 :root {
     --cor-de-fundo: #32CD32;
     --branco: #F8F8FF;
-    --laranja: ##F0E68C;
-    --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
+    --laranja: #F0E68C;
+    --azul-degrade: #EEE8AA;
     --fonte-principal: "Poppins";
     --azul:#BDB76B;
 }
